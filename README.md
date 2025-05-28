@@ -26,11 +26,5 @@ This led to poor customer service and posed risks to the company’s reputation 
 - Improve overall staff workflow
 - Provide a reliable and user-friendly online order system
 
-📈 Key Components
-- Entity-Relationship Diagram (ERD)
-- 3NF Relational Schema
-- Data Dictionary & Integrity Constraints
-- SQL Queries and Output
-- Application Screenshots (Forms, Reports, etc.)
 
 
