@@ -1,8 +1,8 @@
 # empire-bookstore-information-system
-📚 Empire Bookstore Information System
+## 📚 Empire Bookstore Information System
 This repository contains the database project developed for the ICT450 - Database Design and Development course. The project aims to solve key operational issues faced by Empire Bookstore by implementing a comprehensive information system for handling book orders, customer data, and sales tracking.
 
-🔍 Project Overview
+## 🔍 Project Overview
 The Empire Bookstore Information System was developed in response to challenges faced by a growing book retail business. With the rise in customer base during the COVID-19 pandemic, manual order tracking became inefficient and error-prone. This system automates the processes of:
 - Book ordering
 - Customer data management
